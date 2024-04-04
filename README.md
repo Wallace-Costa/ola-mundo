@@ -1,3 +1,3 @@
 # ola-mundo
  primeiro repositorio
-pra uma aula de git/github
+pra uma aula de **git/github**
